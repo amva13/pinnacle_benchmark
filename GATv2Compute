@@ -1,0 +1,46 @@
+GATv2 Compute
+
+Virtual machine size
+    Standard_E4ds_v4 (4 cores, 32 GB RAM, 150 GB disk)
+
+Processing unit
+    CPU - Memory optimized
+
+Estimated cost
+    $0.29/hr (when running)
+
+Additional data storage
+    --
+
+Applications
+    JupyterLab
+    Jupyter
+    VS Code (Web)
+    VS Code (Desktop)
+    Terminal
+    Notebook
+
+Created on
+    1/23/2025, 1:30:13 PM
+
+SSH access
+    Disabled
+
+Root access
+    Enabled
+
+Private IP address
+    
+
+Virtual network/subnet
+    --
+
+Public IP address
+    
+
+Compute instance software version
+    Linux 24.12.31 (current)
+
+
+CPU Memory-Optimized Processing Unit info
+https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview?tabs=breakdownseries%2Cgeneralsizelist%2Ccomputesizelist%2Cmemorysizelist%2Cstoragesizelist%2Cgpusizelist%2Cfpgasizelist%2Chpcsizelist#memory-optimized
